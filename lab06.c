@@ -39,5 +39,7 @@ int main(){
   for(i=0; i<A; i++){
     destruirAluno(c[i]);
   }
+  free(a);
+  free(c);
   return 0;
 }
