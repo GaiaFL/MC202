@@ -1,0 +1,18 @@
+
+Testando testes_abertos/arq01.in: 
+1,5c1,5
+<  *** 
+< ** **
+< *   *
+<  ** *
+<   ***
+---
+> 
+> XOOOX
+> OOXOO
+> OXOXO
+> XOOXO
+***********************************
+Falhou para testes_abertos/arq01.in
+***********************************
+Makefile:20: recipe for target 'testar_tudo' failed
